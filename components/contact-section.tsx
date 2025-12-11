@@ -26,13 +26,13 @@ const contactInfo = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "Chidubem Michael",
-    href: "https://www.linkedin.com/in/chidubem-michael-2a5b88295",
+    href: "www.linkedin.com/in/shann-bernard-2a5b88295",
   },
   {
     icon: Globe,
     label: "Portfolio",
-    value: "jatcoin.vercel.app",
-    href: "https://jatcoin.vercel.app",
+    value: "harry's portfolio.com",
+    href: "https://my-portfolio-alpha-olive-15.vercel.app/",
   },
 ]
 
