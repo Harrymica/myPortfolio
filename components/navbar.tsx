@@ -36,7 +36,7 @@ export function Navbar() {
     >
       <nav className="container mx-auto px-4 md:px-6 h-16 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold text-primary hover:opacity-80 transition-opacity">
-          CMH<span className="text-foreground">.</span>
+          CMH<span className="text-foreground"></span>
         </Link>
 
         {/* Desktop Navigation */}

@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Mail, Phone, Send, Linkedin, Globe } from "lucide-react"
+import { Mail, Phone, Send, Linkedin, Globe, MessageCircle} from "lucide-react"
 import Link from "next/link"
 import { useState } from "react";
 
@@ -17,21 +17,21 @@ const contactInfo = [
     href: "mailto:micachidubem007@gmail.com",
   },
   {
-    icon: Phone,
-    label: "Phone",
+    icon: MessageCircle,
+    label: "WhatsApp",
     value: "+234 805 693 2674",
-    href: "tel:+2348056932674",
+    href: "https://wa.me/+2348056932674",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
     value: "Chidubem Michael",
-    href: "www.linkedin.com/in/shann-bernard-2a5b88295",
+    href: "https://www.linkedin.com/in/shann-bernard-2a5b88295",
   },
   {
     icon: Globe,
     label: "Portfolio",
-    value: "harry's portfolio.com",
+    value: "Michael's portfolio.com",
     href: "https://my-portfolio-alpha-olive-15.vercel.app/",
   },
 ]

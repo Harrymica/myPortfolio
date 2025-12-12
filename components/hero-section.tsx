@@ -88,7 +88,7 @@ export function HeroSection() {
 
           <div className="flex items-center gap-4 animate-fade-in-up delay-500">
             <Link
-              href="https://www.linkedin.com/in/chidubem-michael-2a5b88295"
+              href="https://www.linkedin.com/in/shann-bernard-2a5b88295"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-secondary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
@@ -97,7 +97,7 @@ export function HeroSection() {
               <span className="sr-only">LinkedIn</span>
             </Link>
             <Link
-              href="https://github.com"
+              href="https://github.com/Harrymica"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-secondary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
