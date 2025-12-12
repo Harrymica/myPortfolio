@@ -71,7 +71,7 @@ export function HeroSection() {
           </div>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl animate-fade-in-up delay-200">
-            Building scalable, user-centered applications with 4+ years of experience in full-stack development.
+            Building scalable, user-centered applications with 5+ years of experience in full-stack development.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 animate-fade-in-up delay-300">
