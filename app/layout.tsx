@@ -23,6 +23,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+
+        <head>
+        <script src="https://api.manageull.com.ng/runtime/script" data - manageull - key="mng_site_QQSPFqFgzYvs0tOu4kM5ZS4iC2oNs08Yh_9UV_3ai_E" data - manageull - site - verification="mng_verify_ayPvLM0MdQgWuwTEh7lgSJWzJzQYWMvcKFifIvvjt9U" crossOrigin = "anonymous" async > </script>
+    </head>
       <body className={`${inter.variable} ${geistMono.variable} font-sans antialiased`}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange={false}>
           {children}
